@@ -1,9 +1,7 @@
 
-[Source](http://stackoverflow.com/questions/18202485/how-to-test-the-result-of-applying-a-puppet-template-to-given-test-parameters "Test the result of a puppet template given test parameters")
-jjjjj
+[http://stackoverflow.com/](http://stackoverflow.com/questions/18202485/how-to-test-the-result-of-applying-a-puppet-template-to-given-test-parameters "Test the result of a puppet template given test parameters")
 
-```sh
-#!/usr/bin/env ruby
+```ruby
 require 'erb'
 #Test Variables
 jmx_port = 9200
@@ -14,7 +12,9 @@ renderer = ERB.new(temp)
 puts output = renderer.result()
 ```
 
-```ruby
+Template example:
+
+```json
 {
   "servers" : [ {
     "port" : "<%= jmx_port %>",
