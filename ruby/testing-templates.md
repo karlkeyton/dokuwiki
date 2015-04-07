@@ -14,7 +14,7 @@ puts output = renderer.result()
 
 Template example:
 
-```
+```ruby
 {
   "servers" : [ {
     "port" : "<%= jmx_port %>",
