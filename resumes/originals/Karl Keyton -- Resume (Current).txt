@@ -1,0 +1,94 @@
+﻿Karl Keyton
+karl.keyton@gmail.com
+818-293-8323
+
+
+Summary:
+Sr System Administrator with extensive experience with datacenter-management, high-availability systems, Unix administration, enterprise networks and storage-clusters. Moderate experience with configuration-management, distributed-monitoring & cloud-based architectures. Strong focus on automation and site-reliability solutions.
+
+
+Objective:
+Utilize my experience with Unix systems to design, install, manage and troubleshoot large-scale installations. Design and support production networks, high-availability systems, and enterprise database environments. 
+
+
+Technical Skills:         
+Computer Networking:
+	Routers, Switches, 100/1000/Mbps Ethernet & 10GB-E,, 802.11b/n/ac, IPv4 (Traditional TCP/IP), Cisco IOS, DNS, HTTP, FTP and Layer4-7 load-balancing
+	Operating Systems:
+	Linux (CentOS  and RHEL), Sun Solaris, Debian
+	Virtualization Technology
+	AWS (EC2, S3, RDS), Citrix XenServer, 
+	Agile Systems:
+	Bugzilla, Jira, Git, Confluence
+	Systems Management:
+	Nagios, Cacti, Splunk, Puppet, Subversion
+	Server Software
+	Apache, Tomcat, MySQL & Perl/Bash-based automation tools,
+	Network Hardware
+	Cisco 2500, 2600, 3600, and 7200 series routers, 3500 and 6500 series switches.
+Cisco 3500 and 6500 series switches. Foundry ServerIron, BigIron and FastIron products.
+	Server Hardware
+	Sun series systems from Netra X1 to E2900, Dell systems 6th generation through current blade-system generation & Rx00 series systems
+	Storage Hardware
+	Network Appliance,  EMC, Dell Equallogic
+	
+
+
+
+Work Experience:
+Dec 2013 – Dec 2014                Sr. System Administrator, Crowdgather                  Woodland Hills, CA
+* Managed infrastructure that provided services for 200K + online forums and 30 unique forum platforms
+* Built and maintained data-center assets including SAN, XenServer  cluster, Dell server cluster, Juniper & Brocade networking hardware
+* Served as DBA maintaining a cluster of 80+ MySQL 5.5 systems
+* Provided DevOps support-role for development team, acting to resolve issues throughout all stages of development.
+* Handled administration for numerous cloud-based assets (Google Apps, AWS, Linode, Rackspace)
+* 24/7 on-call support for production emergencies
+* Developed automation resources for streamlined system-management.
+
+
+Feb 2012 – Dec 2013                Sr. Systems Engineer, Gumiyo Inc.                  Woodland Hills, CA
+* Managed company site-wide AWS infrastructure including EC2, RDS, Route53 & ELB resources
+* Maintained 100+ Fedora  Linux server cluster including systems architecture, configuration management and software support
+* Acted as MySQL administrator for production database systems in both RDS and standard MySQL server deployments
+* Managed and developed tools for Tomcat 7 & Apache systems
+* Built, deployed and maintained Nagios/Cacti/Splunk monitoring applications
+* Reduced operational costs by scaling resources and upgrading systems as needed.
+* Maintained consistent 24x7 availability through persistent monitoring and automation
+* Transitioned systems from Tomcat 5.5 -> Tomcat 7 with minimal downtime
+* Built and maintained system configurations with Puppet
+* Supported development team with software deployments
+* Maintained Agile/development-cycle systems including Jira, Xplanner & Subversion
+
+
+May 2001 – Feb 2012                Network Systems Manager, ValueClick                 Westlake Village, CA
+
+
+Designed, built and maintained multiple tier-3 data-centers for customer-facing and internal-support requirements. Supported multiple clusters of 500+ Redhat Linux systems
+* Integrated acquired technologies, business-units and systems into existing infrastructure
+* Developed and maintained relationships with outside vendors focused on lowering cost of operation and improving quality.  
+* Maintained systems using cfengine, kickstart, and LDAP frameworks
+* Managed expansion and consolidation of production facilities in multiple locations
+* Designed, built and supported disaster recovery solutions
+* Maintained user accounts & access restrictions, SOX compliance
+* Built and maintained logistic/asset tracking applications
+* Provided support to developers across multiple business-units for system needs
+* Provided 24/7 on-call support
+June ’99 – February ‘01        System Administrator, Peoplelink, Inc. – Santa Monica, CA
+* Established and maintained vendor relationships for operational needs.
+* Built and supported multiple platforms and network technologies, primarily Linux and Solaris systems
+* Supported an environment of 300+ systems in 2 datacenters
+* Relocated production environments as collocation needs expanded.
+* Provided 24/7 on-call support.
+
+
+September ’98 – June ‘99        Operations Staff, Harvey Mudd College – Claremont, CA
+* Built and support departmental systems for student/faculty research.
+* Managed user accounts and requests related to system resources, email, and software development environments.
+* Performed security audits, upgrades and accounting of departmental resources.
+
+
+
+
+Education: 
+Harvey Mudd College – Claremont, CA
+Concentrations: Computer Science, Mathematics and Music
